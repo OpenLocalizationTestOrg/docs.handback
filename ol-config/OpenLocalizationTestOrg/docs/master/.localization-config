@@ -331,5 +331,5 @@
    "markdownTransformerOptions":{  
       "preset":"CnE"
    },
-   "autoHandoffAfterTransformerUpdate": false
+   "autoHandoffAfterTransformerUpdate": true
 }
