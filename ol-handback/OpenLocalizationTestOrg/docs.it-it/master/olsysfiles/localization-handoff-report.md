@@ -1,11 +1,43 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 2
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [docs\framework\wcf\diagnostics\event-logging\index.md](https://github.com/OpenLocalizationTestOrg/docs/blob/75444267cc262dcdfc807db05b2441b78c986800/docs/framework/wcf/diagnostics/event-logging/index.md) | HandedOffSuccess | [Details](#dc866096986804865cfaac58801f652bea0effe923643)
+ [docs\framework\wcf\feature-details\deploying-an-internet-information-services-hosted-wcf-service.md](https://github.com/OpenLocalizationTestOrg/docs/blob/75444267cc262dcdfc807db05b2441b78c986800/docs/framework/wcf/feature-details/deploying-an-internet-information-services-hosted-wcf-service.md) | HandedOffSuccess | [Details](#9e9cc959dfaa57b0007c7c59de48d811c0208f9a24493)
 
 ## Item Details
+##### <a name='dc866096986804865cfaac58801f652bea0effe923643'></a> Source: [docs\framework\wcf\diagnostics\event-logging\index.md](https://github.com/OpenLocalizationTestOrg/docs/blob/75444267cc262dcdfc807db05b2441b78c986800/docs/framework/wcf/diagnostics/event-logging/index.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [index.88172f4ccc4690a6a8310619176171e3897a7ea7.it-it.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/739ea0583e52221a707cdb6d7c6e510749717d30/ol-handoff/OpenLocalizationTestOrg/docs.it-it/master/net-med-mt/index.88172f4ccc4690a6a8310619176171e3897a7ea7.it-it.xlf)
+* Handoff Datetime: 2017-06-02 05:20:22
+* Handoff Reason: TransformerUpdate
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='9e9cc959dfaa57b0007c7c59de48d811c0208f9a24493'></a> Source: [docs\framework\wcf\feature-details\deploying-an-internet-information-services-hosted-wcf-service.md](https://github.com/OpenLocalizationTestOrg/docs/blob/75444267cc262dcdfc807db05b2441b78c986800/docs/framework/wcf/feature-details/deploying-an-internet-information-services-hosted-wcf-service.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [deploying-an-internet-information-services-hosted-wcf-service.80963987cd928341579226237eaa39439f55f07e.it-it.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/739ea0583e52221a707cdb6d7c6e510749717d30/ol-handoff/OpenLocalizationTestOrg/docs.it-it/master/net-med-mt/deploying-an-internet-information-services-hosted-wcf-service.80963987cd928341579226237eaa39439f55f07e.it-it.xlf)
+* Handoff Datetime: 2017-06-02 05:20:22
+* Handoff Reason: TransformerUpdate
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
