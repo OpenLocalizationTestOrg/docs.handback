@@ -1,11 +1,43 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 2
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [docs\framework\misc\using-the-assert-method.md](https://github.com/OpenLocalizationTestOrg/docs/blob/75444267cc262dcdfc807db05b2441b78c986800/docs/framework/misc/using-the-assert-method.md) | HandedOffSuccess | [Details](#840388e1acf1541d873a2198af42021299ed826b20655)
+ [docs\framework\wpf\controls\walkthrough-create-a-button-by-using-xaml.md](https://github.com/OpenLocalizationTestOrg/docs/blob/75444267cc262dcdfc807db05b2441b78c986800/docs/framework/wpf/controls/walkthrough-create-a-button-by-using-xaml.md) | HandedOffSuccess | [Details](#5b04f55cf7f8e96edb313f713eaa80d757099c0d27718)
 
 ## Item Details
+##### <a name='840388e1acf1541d873a2198af42021299ed826b20655'></a> Source: [docs\framework\misc\using-the-assert-method.md](https://github.com/OpenLocalizationTestOrg/docs/blob/75444267cc262dcdfc807db05b2441b78c986800/docs/framework/misc/using-the-assert-method.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [using-the-assert-method.c81694e0b1fa6648e214d9b7d6719a813edce3ea.zh-tw.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/0152281a9ba44338a5a772792902ded54fc6564e/ol-handoff/OpenLocalizationTestOrg/docs.zh-tw/master/net-med-mt/using-the-assert-method.c81694e0b1fa6648e214d9b7d6719a813edce3ea.zh-tw.xlf)
+* Handoff Datetime: 2017-11-09 06:15:38
+* Handoff Reason: TransformerUpdate
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='5b04f55cf7f8e96edb313f713eaa80d757099c0d27718'></a> Source: [docs\framework\wpf\controls\walkthrough-create-a-button-by-using-xaml.md](https://github.com/OpenLocalizationTestOrg/docs/blob/75444267cc262dcdfc807db05b2441b78c986800/docs/framework/wpf/controls/walkthrough-create-a-button-by-using-xaml.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [walkthrough-create-a-button-by-using-xaml.e5be7e9139850da30792d1effb61899a501d0c49.zh-tw.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/0152281a9ba44338a5a772792902ded54fc6564e/ol-handoff/OpenLocalizationTestOrg/docs.zh-tw/master/net-med-mt/walkthrough-create-a-button-by-using-xaml.e5be7e9139850da30792d1effb61899a501d0c49.zh-tw.xlf)
+* Handoff Datetime: 2017-11-09 06:15:38
+* Handoff Reason: TransformerUpdate
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
