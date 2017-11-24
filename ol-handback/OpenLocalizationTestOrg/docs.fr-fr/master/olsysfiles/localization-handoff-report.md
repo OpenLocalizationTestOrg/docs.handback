@@ -1,11 +1,28 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [docs\csharp\tutorials\inheritance.md](https://github.com/OpenLocalizationTestOrg/docs/blob/75444267cc262dcdfc807db05b2441b78c986800/docs/csharp/tutorials/inheritance.md) | HandedOffSuccess | [Details](#0c76bbcc8e60a2739b8c2735b3576842bd4f094218957)
 
 ## Item Details
+##### <a name='0c76bbcc8e60a2739b8c2735b3576842bd4f094218957'></a> Source: [docs\csharp\tutorials\inheritance.md](https://github.com/OpenLocalizationTestOrg/docs/blob/75444267cc262dcdfc807db05b2441b78c986800/docs/csharp/tutorials/inheritance.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [inheritance.4091a0f321b95f665d05bcbb643af71aa50e4cb3.fr-fr.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/e43d6b0beb8a97c9be849a504628bad1853dca89/ol-handoff/OpenLocalizationTestOrg/docs.fr-fr/master/vbcs_hi-ht/inheritance.4091a0f321b95f665d05bcbb643af71aa50e4cb3.fr-fr.xlf)
+* Handoff Datetime: 2017-11-24 07:35:18
+* Handoff Reason: TransformerUpdate
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
