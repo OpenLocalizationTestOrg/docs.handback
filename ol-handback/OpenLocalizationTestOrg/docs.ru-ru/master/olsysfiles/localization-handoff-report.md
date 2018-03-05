@@ -1,11 +1,28 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 1
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [docs\csharp\programming-guide\strings\index.md](https://github.com/OpenLocalizationTestOrg/docs/blob/75444267cc262dcdfc807db05b2441b78c986800/docs/csharp/programming-guide/strings/index.md) | HandedOffSuccess | [Details](#5ec9d6aebcb38e89aa21b86cbd005c594bf756e618812)
 
 ## Item Details
+##### <a name='5ec9d6aebcb38e89aa21b86cbd005c594bf756e618812'></a> Source: [docs\csharp\programming-guide\strings\index.md](https://github.com/OpenLocalizationTestOrg/docs/blob/75444267cc262dcdfc807db05b2441b78c986800/docs/csharp/programming-guide/strings/index.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [index.c19919a3b7b983cf1a353eca3011a32a54e87dce.ru-ru.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/d515ae3dcedc24936b319f50969110b6e5836b14/ol-handoff/OpenLocalizationTestOrg/docs.ru-ru/master/p1-ht/index.c19919a3b7b983cf1a353eca3011a32a54e87dce.ru-ru.xlf)
+* Handoff Datetime: 2018-03-05 11:59:55
+* Handoff Reason: TransformerUpdate
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
