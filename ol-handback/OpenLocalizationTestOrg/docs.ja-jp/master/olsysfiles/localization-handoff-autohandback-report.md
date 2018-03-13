@@ -2,8 +2,8 @@
 > This report show how many files are handback automatically in this handoff.
 
 ## Summary
-* **Auto Archive Count**: 0
-* **Auto Handback Count**: 0
+* **Auto Archive Count**: 3
+* **Auto Handback Count**: 3
 
 ## Auto Handback List
 > The following xliff are handback automatically since the same xliff has been handback before with the same translation quality.
@@ -13,6 +13,9 @@
 
 | Handoff Xliff | Referenced Xliff | 
 | --- | --- | 
+| [ol-handoff\OpenLocalizationTestOrg\docs.ja-jp\master\includes\tlasharptla-wpfxmlnsv1-md.cdff45303dd0bf8468a42739b6b542aab25c2802.ja-jp.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/f1dfdd4343065387e6dfae6df4bbbce09759d5dc/ol-handoff/OpenLocalizationTestOrg/docs.ja-jp/master/includes/tlasharptla-wpfxmlnsv1-md.cdff45303dd0bf8468a42739b6b542aab25c2802.ja-jp.xlf) | **Empty Handoff File** | 
+| [ol-handoff\OpenLocalizationTestOrg\docs.ja-jp\master\includes\tlasharptla-xamlxmlnsv1-md.6177cb995225ffb2140e083e226750461978220e.ja-jp.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/f1dfdd4343065387e6dfae6df4bbbce09759d5dc/ol-handoff/OpenLocalizationTestOrg/docs.ja-jp/master/includes/tlasharptla-xamlxmlnsv1-md.6177cb995225ffb2140e083e226750461978220e.ja-jp.xlf) | **Empty Handoff File** | 
+| [ol-handoff\OpenLocalizationTestOrg\docs.ja-jp\master\includes\tlasharptla-mcxmlnsv1-md.0da44c7f9021ca7b6ed65526ce2d3222ed717061.ja-jp.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/f1dfdd4343065387e6dfae6df4bbbce09759d5dc/ol-handoff/OpenLocalizationTestOrg/docs.ja-jp/master/includes/tlasharptla-mcxmlnsv1-md.0da44c7f9021ca7b6ed65526ce2d3222ed717061.ja-jp.xlf) | **Empty Handoff File** | 
 
 ## Auto Archived List
 > The following xliff are archived automatically since the same xliff has been archived or it is already handback
@@ -22,4 +25,7 @@
 
 | Handoff Xliff | Archived Reason | 
 | --- | --- | 
+| [ol-handoff\OpenLocalizationTestOrg\docs.ja-jp\master\includes\tlasharptla-wpfxmlnsv1-md.cdff45303dd0bf8468a42739b6b542aab25c2802.ja-jp.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/f1dfdd4343065387e6dfae6df4bbbce09759d5dc/ol-handoff/OpenLocalizationTestOrg/docs.ja-jp/master/includes/tlasharptla-wpfxmlnsv1-md.cdff45303dd0bf8468a42739b6b542aab25c2802.ja-jp.xlf) | Handbacked | 
+| [ol-handoff\OpenLocalizationTestOrg\docs.ja-jp\master\includes\tlasharptla-xamlxmlnsv1-md.6177cb995225ffb2140e083e226750461978220e.ja-jp.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/f1dfdd4343065387e6dfae6df4bbbce09759d5dc/ol-handoff/OpenLocalizationTestOrg/docs.ja-jp/master/includes/tlasharptla-xamlxmlnsv1-md.6177cb995225ffb2140e083e226750461978220e.ja-jp.xlf) | Handbacked | 
+| [ol-handoff\OpenLocalizationTestOrg\docs.ja-jp\master\includes\tlasharptla-mcxmlnsv1-md.0da44c7f9021ca7b6ed65526ce2d3222ed717061.ja-jp.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/f1dfdd4343065387e6dfae6df4bbbce09759d5dc/ol-handoff/OpenLocalizationTestOrg/docs.ja-jp/master/includes/tlasharptla-mcxmlnsv1-md.0da44c7f9021ca7b6ed65526ce2d3222ed717061.ja-jp.xlf) | Handbacked | 
 
