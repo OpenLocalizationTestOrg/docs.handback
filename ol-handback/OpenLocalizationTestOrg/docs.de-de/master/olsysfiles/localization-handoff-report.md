@@ -1,11 +1,43 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 2
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [docs\framework\data\wcf\using-actions-to-implement-server-side-behavior.md](https://github.com/OpenLocalizationTestOrg/docs/blob/75444267cc262dcdfc807db05b2441b78c986800/docs/framework/data/wcf/using-actions-to-implement-server-side-behavior.md) | HandedOffSuccess | [Details](#3aff3c32f79c310efdfebf0f325083435f85c25120376)
+ [docs\framework\wcf\feature-details\hosting-in-windows-process-activation-service.md](https://github.com/OpenLocalizationTestOrg/docs/blob/75444267cc262dcdfc807db05b2441b78c986800/docs/framework/wcf/feature-details/hosting-in-windows-process-activation-service.md) | HandedOffSuccess | [Details](#b7f5c0d5320da1e669d258d3fa562bd7415e291224528)
 
 ## Item Details
+##### <a name='3aff3c32f79c310efdfebf0f325083435f85c25120376'></a> Source: [docs\framework\data\wcf\using-actions-to-implement-server-side-behavior.md](https://github.com/OpenLocalizationTestOrg/docs/blob/75444267cc262dcdfc807db05b2441b78c986800/docs/framework/data/wcf/using-actions-to-implement-server-side-behavior.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [using-actions-to-implement-server-side-behavior.1e9e87f423eec7967ed6f71059916ea60914d784.de-de.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/91d220d3816f66c4a7465bc35cd1491d999133d4/ol-handoff/OpenLocalizationTestOrg/docs.de-de/master/net-med-mt/using-actions-to-implement-server-side-behavior.1e9e87f423eec7967ed6f71059916ea60914d784.de-de.xlf)
+* Handoff Datetime: 2018-03-28 04:10:12
+* Handoff Reason: TransformerUpdate
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='b7f5c0d5320da1e669d258d3fa562bd7415e291224528'></a> Source: [docs\framework\wcf\feature-details\hosting-in-windows-process-activation-service.md](https://github.com/OpenLocalizationTestOrg/docs/blob/75444267cc262dcdfc807db05b2441b78c986800/docs/framework/wcf/feature-details/hosting-in-windows-process-activation-service.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [hosting-in-windows-process-activation-service.8660c8776c74400717662f2e7c0939205ef02613.de-de.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/91d220d3816f66c4a7465bc35cd1491d999133d4/ol-handoff/OpenLocalizationTestOrg/docs.de-de/master/net-med-mt/hosting-in-windows-process-activation-service.8660c8776c74400717662f2e7c0939205ef02613.de-de.xlf)
+* Handoff Datetime: 2018-03-28 04:10:12
+* Handoff Reason: TransformerUpdate
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
