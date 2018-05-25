@@ -1,11 +1,58 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 3
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [docs\framework\configure-apps\file-schema\wcf\identity.md](https://github.com/OpenLocalizationTestOrg/docs/blob/75444267cc262dcdfc807db05b2441b78c986800/docs/framework/configure-apps/file-schema/wcf/identity.md) | HandedOffSuccess | [Details](#8590ce13fc381ff22f8e950dd741fce406e043ab19330)
+ [docs\framework\wcf\feature-details\messaging-protocols.md](https://github.com/OpenLocalizationTestOrg/docs/blob/75444267cc262dcdfc807db05b2441b78c986800/docs/framework/wcf/feature-details/messaging-protocols.md) | HandedOffSuccess | [Details](#e850ee50503289ed25dd0fe920d0cb56af318c8b24803)
+ [docs\framework\wcf\feature-details\supporting-multiple-iis-site-bindings.md](https://github.com/OpenLocalizationTestOrg/docs/blob/75444267cc262dcdfc807db05b2441b78c986800/docs/framework/wcf/feature-details/supporting-multiple-iis-site-bindings.md) | HandedOffSuccess | [Details](#4e742799522412bce77e1bceaaec7d24b3a1c77924895)
 
 ## Item Details
+##### <a name='8590ce13fc381ff22f8e950dd741fce406e043ab19330'></a> Source: [docs\framework\configure-apps\file-schema\wcf\identity.md](https://github.com/OpenLocalizationTestOrg/docs/blob/75444267cc262dcdfc807db05b2441b78c986800/docs/framework/configure-apps/file-schema/wcf/identity.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [identity.1a1051302e2c2d9f17734b7bf90acab8ab81de0e.ja-jp.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/c4f75591a6c6ee92974263ce41a19ecb29181a08/ol-handoff/OpenLocalizationTestOrg/docs.ja-jp/master/net-med-mt/identity.1a1051302e2c2d9f17734b7bf90acab8ab81de0e.ja-jp.xlf)
+* Handoff Datetime: 2018-05-25 05:55:26
+* Handoff Reason: TransformerUpdate
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='e850ee50503289ed25dd0fe920d0cb56af318c8b24803'></a> Source: [docs\framework\wcf\feature-details\messaging-protocols.md](https://github.com/OpenLocalizationTestOrg/docs/blob/75444267cc262dcdfc807db05b2441b78c986800/docs/framework/wcf/feature-details/messaging-protocols.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [messaging-protocols.55e36d763bb5b2d3165e8421e8246e61a4f2efd5.ja-jp.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/c4f75591a6c6ee92974263ce41a19ecb29181a08/ol-handoff/OpenLocalizationTestOrg/docs.ja-jp/master/net-med-mt/messaging-protocols.55e36d763bb5b2d3165e8421e8246e61a4f2efd5.ja-jp.xlf)
+* Handoff Datetime: 2018-05-25 05:55:26
+* Handoff Reason: TransformerUpdate
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='4e742799522412bce77e1bceaaec7d24b3a1c77924895'></a> Source: [docs\framework\wcf\feature-details\supporting-multiple-iis-site-bindings.md](https://github.com/OpenLocalizationTestOrg/docs/blob/75444267cc262dcdfc807db05b2441b78c986800/docs/framework/wcf/feature-details/supporting-multiple-iis-site-bindings.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [supporting-multiple-iis-site-bindings.0c392eb2b8f816f7cf5789806b95a4cac3f8d171.ja-jp.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/c4f75591a6c6ee92974263ce41a19ecb29181a08/ol-handoff/OpenLocalizationTestOrg/docs.ja-jp/master/net-med-mt/supporting-multiple-iis-site-bindings.0c392eb2b8f816f7cf5789806b95a4cac3f8d171.ja-jp.xlf)
+* Handoff Datetime: 2018-05-25 05:55:26
+* Handoff Reason: TransformerUpdate
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
