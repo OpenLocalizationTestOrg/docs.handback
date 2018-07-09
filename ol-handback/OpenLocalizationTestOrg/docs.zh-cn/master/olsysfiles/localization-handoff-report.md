@@ -1,58 +1,11 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 3
+ Total Files | 0
 
 ## File List
- Source File | Status | Details 
- ----------- | ------ | ------- 
- [docs\framework\wcf\feature-details\how-to-programmatically-add-discoverability-to-a-wcf-service-and-client.md](https://github.com/OpenLocalizationTestOrg/docs/blob/75444267cc262dcdfc807db05b2441b78c986800/docs/framework/wcf/feature-details/how-to-programmatically-add-discoverability-to-a-wcf-service-and-client.md) | HandedOffSuccess | [Details](#95fc95fb2b949bcdb0a64c8ccea8f5b86d07620724610)
- [docs\framework\wpf\advanced\wpf-globalization-and-localization-overview.md](https://github.com/OpenLocalizationTestOrg/docs/blob/75444267cc262dcdfc807db05b2441b78c986800/docs/framework/wpf/advanced/wpf-globalization-and-localization-overview.md) | HandedOffSuccess | [Details](#db7a3230b527c6d25e5c48e3cda9d3421622d7c927243)
- [docs\standard\base-types\standard-numeric-format-strings.md](https://github.com/OpenLocalizationTestOrg/docs/blob/75444267cc262dcdfc807db05b2441b78c986800/docs/standard/base-types/standard-numeric-format-strings.md) | HandedOffSuccess | [Details](#b48083e0f6e7b12215229c40d49fc6e8b6af917328513)
 
 ## Item Details
-##### <a name='95fc95fb2b949bcdb0a64c8ccea8f5b86d07620724610'></a> Source: [docs\framework\wcf\feature-details\how-to-programmatically-add-discoverability-to-a-wcf-service-and-client.md](https://github.com/OpenLocalizationTestOrg/docs/blob/75444267cc262dcdfc807db05b2441b78c986800/docs/framework/wcf/feature-details/how-to-programmatically-add-discoverability-to-a-wcf-service-and-client.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [how-to-programmatically-add-discoverability-to-a-wcf-service-and-client.d4140d9d57de89c5db6addd4bcc665c97afbe641.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/49818f9f9c5e0a46ea209908c10b1fee7480cd85/ol-handoff/OpenLocalizationTestOrg/docs.zh-cn/master/net-med-mt/how-to-programmatically-add-discoverability-to-a-wcf-service-and-client.d4140d9d57de89c5db6addd4bcc665c97afbe641.zh-cn.xlf)
-* Handoff Datetime: 2018-06-25 05:59:25
-* Handoff Reason: TransformerUpdate
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* [Back to Top](#report-top)
-
-##### <a name='db7a3230b527c6d25e5c48e3cda9d3421622d7c927243'></a> Source: [docs\framework\wpf\advanced\wpf-globalization-and-localization-overview.md](https://github.com/OpenLocalizationTestOrg/docs/blob/75444267cc262dcdfc807db05b2441b78c986800/docs/framework/wpf/advanced/wpf-globalization-and-localization-overview.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [wpf-globalization-and-localization-overview.589fbe3143c4bf5eb1a45fffbf215f4f2ac0efec.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/49818f9f9c5e0a46ea209908c10b1fee7480cd85/ol-handoff/OpenLocalizationTestOrg/docs.zh-cn/master/net-med-mt/wpf-globalization-and-localization-overview.589fbe3143c4bf5eb1a45fffbf215f4f2ac0efec.zh-cn.xlf)
-* Handoff Datetime: 2018-06-25 05:59:25
-* Handoff Reason: TransformerUpdate
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* [Back to Top](#report-top)
-
-##### <a name='b48083e0f6e7b12215229c40d49fc6e8b6af917328513'></a> Source: [docs\standard\base-types\standard-numeric-format-strings.md](https://github.com/OpenLocalizationTestOrg/docs/blob/75444267cc262dcdfc807db05b2441b78c986800/docs/standard/base-types/standard-numeric-format-strings.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [standard-numeric-format-strings.fe0f992510c04f4dbd34bc9be49e4e9343e99848.zh-cn.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/49818f9f9c5e0a46ea209908c10b1fee7480cd85/ol-handoff/OpenLocalizationTestOrg/docs.zh-cn/master/net-med-mt/standard-numeric-format-strings.fe0f992510c04f4dbd34bc9be49e4e9343e99848.zh-cn.xlf)
-* Handoff Datetime: 2018-06-25 05:59:25
-* Handoff Reason: TransformerUpdate
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* [Back to Top](#report-top)
-
 
 ## Error Details
 
