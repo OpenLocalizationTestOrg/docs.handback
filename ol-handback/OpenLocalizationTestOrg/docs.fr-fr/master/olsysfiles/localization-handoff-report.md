@@ -1,11 +1,43 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 0
+ Total Files | 2
 
 ## File List
+ Source File | Status | Details 
+ ----------- | ------ | ------- 
+ [docs\framework\configure-apps\file-schema\wcf\filters.md](https://github.com/OpenLocalizationTestOrg/docs/blob/75444267cc262dcdfc807db05b2441b78c986800/docs/framework/configure-apps/file-schema/wcf/filters.md) | HandedOffSuccess | [Details](#c92ce15489596c4a6d496ecbc99755e108e10b0519320)
+ [docs\framework\whats-new\index.md](https://github.com/OpenLocalizationTestOrg/docs/blob/75444267cc262dcdfc807db05b2441b78c986800/docs/framework/whats-new/index.md) | HandedOffSuccess | [Details](#416e97cd7f59b0fc63052673acee8b55a3c11c1f25337)
 
 ## Item Details
+##### <a name='c92ce15489596c4a6d496ecbc99755e108e10b0519320'></a> Source: [docs\framework\configure-apps\file-schema\wcf\filters.md](https://github.com/OpenLocalizationTestOrg/docs/blob/75444267cc262dcdfc807db05b2441b78c986800/docs/framework/configure-apps/file-schema/wcf/filters.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [filters.2362c662873c12cbfdc06aa2e7756205eca2b218.fr-fr.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/6fb7a6225d62f5054698fa50651a8eaec0a69300/ol-handoff/OpenLocalizationTestOrg/docs.fr-fr/master/net-med-mt/filters.2362c662873c12cbfdc06aa2e7756205eca2b218.fr-fr.xlf)
+* Handoff Datetime: 2018-08-15 08:27:17
+* Handoff Reason: TransformerUpdate
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='416e97cd7f59b0fc63052673acee8b55a3c11c1f25337'></a> Source: [docs\framework\whats-new\index.md](https://github.com/OpenLocalizationTestOrg/docs/blob/75444267cc262dcdfc807db05b2441b78c986800/docs/framework/whats-new/index.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [index.365b4f419fdda9d490b11cbcce7542b9a298352f.fr-fr.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/6fb7a6225d62f5054698fa50651a8eaec0a69300/ol-handoff/OpenLocalizationTestOrg/docs.fr-fr/master/p1-ht/index.365b4f419fdda9d490b11cbcce7542b9a298352f.fr-fr.xlf)
+* Handoff Datetime: 2018-08-15 08:27:17
+* Handoff Reason: TransformerUpdate
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
 
 ## Error Details
 
