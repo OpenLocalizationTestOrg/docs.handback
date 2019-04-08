@@ -32,9 +32,6 @@
   "b6fcac5f6062c8e1924794eda0e6b6061f43fa6c": [
     "docs\\core\\docker\\index.md"
   ],
-  "7146e08095260361af1263cf79072476664eee23": [
-    "docs\\core\\docker\\index.md"
-  ],
   "2ec7f57250db8779552305b2ee69cbcf1db55d0c": [
     "docs\\core\\get-started.md"
   ],
@@ -10800,9 +10797,6 @@
     "docs\\csharp\\whats-new\\csharp-7.md"
   ],
   "157554dba0e071454c423cd2fd3be50d2be5cb11": [
-    "docs\\csharp\\whats-new\\index.md"
-  ],
-  "bbee677cfa4003688f6deee92dd4fa56cf4227cf": [
     "docs\\csharp\\whats-new\\index.md"
   ],
   "fc90bedeee2d04c28a3860713ca5952a4564d3bd": [
