@@ -1,145 +1,23 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 12
+ Total Files | 2
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
  [docs\csharp\programming-guide\xmldoc\code.md](https://github.com/OpenLocalizationTestOrg/docs/blob/f9ae43c1cac88dc83fee07b26d8333501f574532/docs/csharp/programming-guide/xmldoc/code.md) | HandedOffFailed | [Details](#1c19f6060398483fc0c2140ee98687b315af91492087)
- [docs\framework\configure-apps\file-schema\windows-workflow-foundation\activitystatequeries.md](https://github.com/OpenLocalizationTestOrg/docs/blob/f9ae43c1cac88dc83fee07b26d8333501f574532/docs/framework/configure-apps/file-schema/windows-workflow-foundation/activitystatequeries.md) | HandedOffSuccess | [Details](#90acda7277fd276f43a619a014fbce103261aa1e2809)
- [docs\framework\data\adonet\ef\sql-generation-in-the-sample-provider.md](https://github.com/OpenLocalizationTestOrg/docs/blob/f9ae43c1cac88dc83fee07b26d8333501f574532/docs/framework/data/adonet/ef/sql-generation-in-the-sample-provider.md) | HandedOffSuccess | [Details](#88223930b65ccec9d030104c62d8b4b2e77ddbe23167)
- [docs\framework\unmanaged-api\debugging\icordebugmanagedcallback-updatemodulesymbols-method.md](https://github.com/OpenLocalizationTestOrg/docs/blob/f9ae43c1cac88dc83fee07b26d8333501f574532/docs/framework/unmanaged-api/debugging/icordebugmanagedcallback-updatemodulesymbols-method.md) | HandedOffSuccess | [Details](#581ea4f974bfec3961a32cd7c9985a5e45d2bddd4896)
- [docs\framework\unmanaged-api\diagnostics\isymunmanagedreader-getsymattribute-method.md](https://github.com/OpenLocalizationTestOrg/docs/blob/f9ae43c1cac88dc83fee07b26d8333501f574532/docs/framework/unmanaged-api/diagnostics/isymunmanagedreader-getsymattribute-method.md) | HandedOffSuccess | [Details](#89831261c5da156343cb098ace715495ddafccaf5341)
- [docs\framework\unmanaged-api\fusion\iassemblyname-interface.md](https://github.com/OpenLocalizationTestOrg/docs/blob/f9ae43c1cac88dc83fee07b26d8333501f574532/docs/framework/unmanaged-api/fusion/iassemblyname-interface.md) | HandedOffSuccess | [Details](#0d8d59ef282818dd9852d0ff8d2ec2abd40986d05472)
- [docs\framework\unmanaged-api\fusion\iassemblyname-setproperty-method.md](https://github.com/OpenLocalizationTestOrg/docs/blob/f9ae43c1cac88dc83fee07b26d8333501f574532/docs/framework/unmanaged-api/fusion/iassemblyname-setproperty-method.md) | HandedOffSuccess | [Details](#2cc2a2c7991eb4d11873ebb6a2df92ccc45cde9b5474)
- [docs\framework\windows-workflow-foundation\1450-wfmessagesent.md](https://github.com/OpenLocalizationTestOrg/docs/blob/f9ae43c1cac88dc83fee07b26d8333501f574532/docs/framework/windows-workflow-foundation/1450-wfmessagesent.md) | HandedOffSuccess | [Details](#5d5ba6e1ec1b39b8d864e5f24b086120892c1ee88814)
- [docs\framework\windows-workflow-foundation\extend.md](https://github.com/OpenLocalizationTestOrg/docs/blob/f9ae43c1cac88dc83fee07b26d8333501f574532/docs/framework/windows-workflow-foundation/extend.md) | HandedOffSuccess | [Details](#8449c1f229ffb993036dbb909d6f4c98c47498af8893)
  [docs\visual-basic\language-reference\xmldoc\code.md](https://github.com/OpenLocalizationTestOrg/docs/blob/f9ae43c1cac88dc83fee07b26d8333501f574532/docs/visual-basic/language-reference/xmldoc/code.md) | HandedOffFailed | [Details](#5ddad477e48715c027104baf050959c51006e51213625)
- [docs\visual-basic\misc\bc30501.md](https://github.com/OpenLocalizationTestOrg/docs/blob/f9ae43c1cac88dc83fee07b26d8333501f574532/docs/visual-basic/misc/bc30501.md) | HandedOffSuccess | [Details](#8d978ef826c747903df6381c3778115e8dd8f50f13992)
- [includes\topic-appliesto-net-core-2plus.md](https://github.com/OpenLocalizationTestOrg/docs/blob/f9ae43c1cac88dc83fee07b26d8333501f574532/includes/topic-appliesto-net-core-2plus.md) | HandedOffSuccess | [Details](#cf3b002523fd6e6a3eb5388674496f12d2eee5e816301)
 
 ## Item Details
 ##### <a name='1c19f6060398483fc0c2140ee98687b315af91492087'></a> Source: [docs\csharp\programming-guide\xmldoc\code.md](https://github.com/OpenLocalizationTestOrg/docs/blob/f9ae43c1cac88dc83fee07b26d8333501f574532/docs/csharp/programming-guide/xmldoc/code.md)
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2019-04-08 09:39:03
+* Handoff Datetime: 2019-04-12 01:57:09
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#1c19f6060398483fc0c2140ee98687b315af91492087handoff_transform_failed)
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* [Back to Top](#report-top)
-
-##### <a name='90acda7277fd276f43a619a014fbce103261aa1e2809'></a> Source: [docs\framework\configure-apps\file-schema\windows-workflow-foundation\activitystatequeries.md](https://github.com/OpenLocalizationTestOrg/docs/blob/f9ae43c1cac88dc83fee07b26d8333501f574532/docs/framework/configure-apps/file-schema/windows-workflow-foundation/activitystatequeries.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [activitystatequeries.89da481612c49b476d5263efa0aa9b2dd5634ae8.es-es.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/a91299bab51bd406fb1deeb194c5f29d7ec644b0/ol-handoff/OpenLocalizationTestOrg/docs.es-es/master/net-med-mt/activitystatequeries.89da481612c49b476d5263efa0aa9b2dd5634ae8.es-es.xlf)
-* Handoff Datetime: 2019-04-08 09:39:03
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* [Back to Top](#report-top)
-
-##### <a name='88223930b65ccec9d030104c62d8b4b2e77ddbe23167'></a> Source: [docs\framework\data\adonet\ef\sql-generation-in-the-sample-provider.md](https://github.com/OpenLocalizationTestOrg/docs/blob/f9ae43c1cac88dc83fee07b26d8333501f574532/docs/framework/data/adonet/ef/sql-generation-in-the-sample-provider.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [sql-generation-in-the-sample-provider.40826bab705cf6b73949c410946d36d2deb3d6ef.es-es.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/a91299bab51bd406fb1deeb194c5f29d7ec644b0/ol-handoff/OpenLocalizationTestOrg/docs.es-es/master/net-med-mt/sql-generation-in-the-sample-provider.40826bab705cf6b73949c410946d36d2deb3d6ef.es-es.xlf)
-* Handoff Datetime: 2019-04-08 09:39:03
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* [Back to Top](#report-top)
-
-##### <a name='581ea4f974bfec3961a32cd7c9985a5e45d2bddd4896'></a> Source: [docs\framework\unmanaged-api\debugging\icordebugmanagedcallback-updatemodulesymbols-method.md](https://github.com/OpenLocalizationTestOrg/docs/blob/f9ae43c1cac88dc83fee07b26d8333501f574532/docs/framework/unmanaged-api/debugging/icordebugmanagedcallback-updatemodulesymbols-method.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [icordebugmanagedcallback-updatemodulesymbols-method.889ea9a60f652d48dcead0930beb1b1102c98a02.es-es.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/a91299bab51bd406fb1deeb194c5f29d7ec644b0/ol-handoff/OpenLocalizationTestOrg/docs.es-es/master/net-lo-mt/icordebugmanagedcallback-updatemodulesymbols-method.889ea9a60f652d48dcead0930beb1b1102c98a02.es-es.xlf)
-* Handoff Datetime: 2019-04-08 09:39:03
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* [Back to Top](#report-top)
-
-##### <a name='89831261c5da156343cb098ace715495ddafccaf5341'></a> Source: [docs\framework\unmanaged-api\diagnostics\isymunmanagedreader-getsymattribute-method.md](https://github.com/OpenLocalizationTestOrg/docs/blob/f9ae43c1cac88dc83fee07b26d8333501f574532/docs/framework/unmanaged-api/diagnostics/isymunmanagedreader-getsymattribute-method.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [isymunmanagedreader-getsymattribute-method.7ead0d4564e5538858683acd5aef837efb2a6c48.es-es.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/a91299bab51bd406fb1deeb194c5f29d7ec644b0/ol-handoff/OpenLocalizationTestOrg/docs.es-es/master/net-lo-mt/isymunmanagedreader-getsymattribute-method.7ead0d4564e5538858683acd5aef837efb2a6c48.es-es.xlf)
-* Handoff Datetime: 2019-04-08 09:39:03
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* [Back to Top](#report-top)
-
-##### <a name='0d8d59ef282818dd9852d0ff8d2ec2abd40986d05472'></a> Source: [docs\framework\unmanaged-api\fusion\iassemblyname-interface.md](https://github.com/OpenLocalizationTestOrg/docs/blob/f9ae43c1cac88dc83fee07b26d8333501f574532/docs/framework/unmanaged-api/fusion/iassemblyname-interface.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [iassemblyname-interface.dd48840876bca9f081f87d6fe3f6c34d4b2250f0.es-es.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/a91299bab51bd406fb1deeb194c5f29d7ec644b0/ol-handoff/OpenLocalizationTestOrg/docs.es-es/master/net-lo-mt/iassemblyname-interface.dd48840876bca9f081f87d6fe3f6c34d4b2250f0.es-es.xlf)
-* Handoff Datetime: 2019-04-08 09:39:03
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* [Back to Top](#report-top)
-
-##### <a name='2cc2a2c7991eb4d11873ebb6a2df92ccc45cde9b5474'></a> Source: [docs\framework\unmanaged-api\fusion\iassemblyname-setproperty-method.md](https://github.com/OpenLocalizationTestOrg/docs/blob/f9ae43c1cac88dc83fee07b26d8333501f574532/docs/framework/unmanaged-api/fusion/iassemblyname-setproperty-method.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [iassemblyname-setproperty-method.d75e4ed7b26aaf3149ef6c00a5f01eae5f35649d.es-es.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/a91299bab51bd406fb1deeb194c5f29d7ec644b0/ol-handoff/OpenLocalizationTestOrg/docs.es-es/master/net-lo-mt/iassemblyname-setproperty-method.d75e4ed7b26aaf3149ef6c00a5f01eae5f35649d.es-es.xlf)
-* Handoff Datetime: 2019-04-08 09:39:03
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* [Back to Top](#report-top)
-
-##### <a name='5d5ba6e1ec1b39b8d864e5f24b086120892c1ee88814'></a> Source: [docs\framework\windows-workflow-foundation\1450-wfmessagesent.md](https://github.com/OpenLocalizationTestOrg/docs/blob/f9ae43c1cac88dc83fee07b26d8333501f574532/docs/framework/windows-workflow-foundation/1450-wfmessagesent.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [1450-wfmessagesent.208919275606740908ff0a119194fe91705ef4f3.es-es.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/a91299bab51bd406fb1deeb194c5f29d7ec644b0/ol-handoff/OpenLocalizationTestOrg/docs.es-es/master/net-med-mt/1450-wfmessagesent.208919275606740908ff0a119194fe91705ef4f3.es-es.xlf)
-* Handoff Datetime: 2019-04-08 09:39:03
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* [Back to Top](#report-top)
-
-##### <a name='8449c1f229ffb993036dbb909d6f4c98c47498af8893'></a> Source: [docs\framework\windows-workflow-foundation\extend.md](https://github.com/OpenLocalizationTestOrg/docs/blob/f9ae43c1cac88dc83fee07b26d8333501f574532/docs/framework/windows-workflow-foundation/extend.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [extend.a7f4418bf1bf6a872f4e835147ae6e6bfd4cf50b.es-es.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/a91299bab51bd406fb1deeb194c5f29d7ec644b0/ol-handoff/OpenLocalizationTestOrg/docs.es-es/master/net-med-mt/extend.a7f4418bf1bf6a872f4e835147ae6e6bfd4cf50b.es-es.xlf)
-* Handoff Datetime: 2019-04-08 09:39:03
-* Handoff Reason: Include
-* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -151,38 +29,10 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2019-04-08 09:39:03
+* Handoff Datetime: 2019-04-12 01:57:09
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#5ddad477e48715c027104baf050959c51006e51213625handoff_transform_failed)
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* [Back to Top](#report-top)
-
-##### <a name='8d978ef826c747903df6381c3778115e8dd8f50f13992'></a> Source: [docs\visual-basic\misc\bc30501.md](https://github.com/OpenLocalizationTestOrg/docs/blob/f9ae43c1cac88dc83fee07b26d8333501f574532/docs/visual-basic/misc/bc30501.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [bc30501.40d25a84647ef002c0805b090041435bb87a7ede.es-es.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/a91299bab51bd406fb1deeb194c5f29d7ec644b0/ol-handoff/OpenLocalizationTestOrg/docs.es-es/master/vbcs_lo-mt/bc30501.40d25a84647ef002c0805b090041435bb87a7ede.es-es.xlf)
-* Handoff Datetime: 2019-04-08 09:39:03
-* Handoff Reason: Include
-* Handoff Name: 
-* Archive File: 
-* Archive Datetime: 0001-01-01 00:00:00
-* Handback File: 
-* Handback Datetime: 0001-01-01 00:00:00
-* Handback Name: 
-* [Back to Top](#report-top)
-
-##### <a name='cf3b002523fd6e6a3eb5388674496f12d2eee5e816301'></a> Source: [includes\topic-appliesto-net-core-2plus.md](https://github.com/OpenLocalizationTestOrg/docs/blob/f9ae43c1cac88dc83fee07b26d8333501f574532/includes/topic-appliesto-net-core-2plus.md)
-* Status: HandedOffSuccess
-* Target File: 
-* Handoff File: [topic-appliesto-net-core-2plus.14165130c40ace8d8670d53d92c98e4240b55879.es-es.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/a91299bab51bd406fb1deeb194c5f29d7ec644b0/ol-handoff/OpenLocalizationTestOrg/docs.es-es/master/includes/topic-appliesto-net-core-2plus.14165130c40ace8d8670d53d92c98e4240b55879.es-es.xlf)
-* Handoff Datetime: 2019-04-08 09:39:03
-* Handoff Reason: Include
-* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -196,7 +46,7 @@
 * Error Code: handoff_transform_failed
 * Error Message: Handoff source file: docs\csharp\programming-guide\xmldoc\code.md transformed failed.
 * Retriable: False
-* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: docs\\csharp\\programming-guide\\xmldoc\\code.md transformed failed.","internal_error_retriable":false,"exception_message":"","exception_type":"System.Net.Http.HttpRequestException","stack_trace":"   at Microsoft.OpenLocalization.Transformer.MarkdownJavascriptTransformer.ContentToXliffCore(Stream sourceStream, Stream xliffStream, Stream skeletonStream, String srcLocale, String targetLocale, IReadOnlyDictionary`2 transformerOptions, String sourcePath, String format) in D:\\a\\1\\s\\src\\OpenLocalization.Transformer.Core\\Transformer\\MarkdownJavascriptTransformer.cs:line 67\r\n   at Microsoft.OpenLocalization.Transformer.TransformerClient.MarkdownToXliff(Stream sourceStream, Stream xliffStream, Stream skeletonStream, String srcLocale, String targetLocale, String xliffVersion, IReadOnlyDictionary`2 options, String sourcePath) in D:\\a\\1\\s\\src\\OpenLocalization.Transformer.Core\\TransformerClient.cs:line 78\r\n   at Microsoft.OpenLocalization.Helper.XliffTransformUtil.ContentToXliff(String mdfile, String xliffFile, String skeletonFile, String sourceLocale, String targetLocale, String xliffVersion, IReadOnlyDictionary`2 transformerOptions, String souurceRelativePath) in D:\\a\\1\\s\\src\\OpenLocalization\\Helper\\XliffTransformUtil.cs:line 65\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass30_0.<CreateHandoffFiles>b__0(Tuple`5 handoff) in D:\\a\\1\\s\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 292","extended_information":null}
+* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: docs\\csharp\\programming-guide\\xmldoc\\code.md transformed failed.","internal_error_retriable":false,"exception_message":"A task was canceled.","exception_type":"System.Threading.Tasks.TaskCanceledException","stack_trace":"   at Microsoft.OpenLocalization.Transformer.MarkdownJavascriptTransformer.ContentToXliffCore(Stream sourceStream, Stream xliffStream, Stream skeletonStream, String srcLocale, String targetLocale, IReadOnlyDictionary`2 transformerOptions, String sourcePath, String format) in D:\\a\\1\\s\\src\\OpenLocalization.Transformer.Core\\Transformer\\MarkdownJavascriptTransformer.cs:line 67\r\n   at Microsoft.OpenLocalization.Transformer.TransformerClient.MarkdownToXliff(Stream sourceStream, Stream xliffStream, Stream skeletonStream, String srcLocale, String targetLocale, String xliffVersion, IReadOnlyDictionary`2 options, String sourcePath) in D:\\a\\1\\s\\src\\OpenLocalization.Transformer.Core\\TransformerClient.cs:line 78\r\n   at Microsoft.OpenLocalization.Helper.XliffTransformUtil.ContentToXliff(String mdfile, String xliffFile, String skeletonFile, String sourceLocale, String targetLocale, String xliffVersion, IReadOnlyDictionary`2 transformerOptions, String souurceRelativePath) in D:\\a\\1\\s\\src\\OpenLocalization\\Helper\\XliffTransformUtil.cs:line 65\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass30_0.<CreateHandoffFiles>b__0(Tuple`5 handoff) in D:\\a\\1\\s\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 292","extended_information":null}
 
 ##### <a name='5ddad477e48715c027104baf050959c51006e51213625handoff_transform_failed'></a> Source: [docs\visual-basic\language-reference\xmldoc\code.md](#5ddad477e48715c027104baf050959c51006e51213625)
 * Error Code: handoff_transform_failed
