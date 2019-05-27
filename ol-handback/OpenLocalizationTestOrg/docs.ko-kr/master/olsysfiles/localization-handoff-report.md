@@ -14,7 +14,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2019-05-15 10:24:56
+* Handoff Datetime: 2019-05-27 10:25:16
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#1c19f6060398483fc0c2140ee98687b315af91492087handoff_transform_failed)
@@ -29,7 +29,7 @@
 * Status: HandedOffFailed
 * Target File: 
 * Handoff File: 
-* Handoff Datetime: 2019-05-15 10:24:56
+* Handoff Datetime: 2019-05-27 10:25:16
 * Handoff Reason: Ignored
 * Handoff Name: 
 * Handoff Error: [handoff_transform_failed](#5ddad477e48715c027104baf050959c51006e51213625handoff_transform_failed)
