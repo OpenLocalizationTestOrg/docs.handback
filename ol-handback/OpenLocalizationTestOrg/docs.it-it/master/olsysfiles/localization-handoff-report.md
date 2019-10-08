@@ -1,23 +1,67 @@
 # <a name='report-top'></a> Localization Handoff Report
 
 ## Summary
- Total Files | 2
+ Total Files | 5
 
 ## File List
  Source File | Status | Details 
  ----------- | ------ | ------- 
- [docs\csharp\programming-guide\xmldoc\code.md](https://github.com/OpenLocalizationTestOrg/docs/blob/f9ae43c1cac88dc83fee07b26d8333501f574532/docs/csharp/programming-guide/xmldoc/code.md) | HandedOffFailed | [Details](#1c19f6060398483fc0c2140ee98687b315af91492087)
- [docs\visual-basic\language-reference\xmldoc\code.md](https://github.com/OpenLocalizationTestOrg/docs/blob/f9ae43c1cac88dc83fee07b26d8333501f574532/docs/visual-basic/language-reference/xmldoc/code.md) | HandedOffFailed | [Details](#5ddad477e48715c027104baf050959c51006e51213625)
+ [docs\csharp\programming-guide\xmldoc\code.md](https://github.com/OpenLocalizationTestOrg/docs/blob/f9ae43c1cac88dc83fee07b26d8333501f574532/docs/csharp/programming-guide/xmldoc/code.md) | HandedOffSuccess | [Details](#1c19f6060398483fc0c2140ee98687b315af91492087)
+ [docs\standard\base-types\how-to-verify-that-strings-are-in-valid-email-format.md](https://github.com/OpenLocalizationTestOrg/docs/blob/f9ae43c1cac88dc83fee07b26d8333501f574532/docs/standard/base-types/how-to-verify-that-strings-are-in-valid-email-format.md) | HandedOffSuccess | [Details](#78210f9f007060551130812fcb5a9cd5b4728adc11875)
+ [docs\standard\base-types\regular-expression-language-quick-reference.md](https://github.com/OpenLocalizationTestOrg/docs/blob/f9ae43c1cac88dc83fee07b26d8333501f574532/docs/standard/base-types/regular-expression-language-quick-reference.md) | HandedOffSuccess | [Details](#9224e78a422b20f33f19d05e43ed1e2ec8d1c5ce11889)
+ [docs\standard\base-types\substitutions-in-regular-expressions.md](https://github.com/OpenLocalizationTestOrg/docs/blob/f9ae43c1cac88dc83fee07b26d8333501f574532/docs/standard/base-types/substitutions-in-regular-expressions.md) | HandedOffSuccess | [Details](#51e22407bd20cc6aa17b242948a83d698167590e11896)
+ [docs\visual-basic\language-reference\xmldoc\code.md](https://github.com/OpenLocalizationTestOrg/docs/blob/f9ae43c1cac88dc83fee07b26d8333501f574532/docs/visual-basic/language-reference/xmldoc/code.md) | HandedOffSuccess | [Details](#5ddad477e48715c027104baf050959c51006e51213625)
 
 ## Item Details
 ##### <a name='1c19f6060398483fc0c2140ee98687b315af91492087'></a> Source: [docs\csharp\programming-guide\xmldoc\code.md](https://github.com/OpenLocalizationTestOrg/docs/blob/f9ae43c1cac88dc83fee07b26d8333501f574532/docs/csharp/programming-guide/xmldoc/code.md)
-* Status: HandedOffFailed
+* Status: HandedOffSuccess
 * Target File: 
-* Handoff File: 
-* Handoff Datetime: 2019-10-01 10:36:03
-* Handoff Reason: Ignored
+* Handoff File: [code.d7f7327d79f97ee00bd453a9e5e98a8b590fd91a.it-it.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/dc98ea171bab27152e51d6278a65f63279aa296c/ol-handoff/OpenLocalizationTestOrg/docs.it-it/master/vbcs_med-ht/code.d7f7327d79f97ee00bd453a9e5e98a8b590fd91a.it-it.xlf)
+* Handoff Datetime: 2019-10-08 00:43:39
+* Handoff Reason: Include
 * Handoff Name: 
-* Handoff Error: [handoff_transform_failed](#1c19f6060398483fc0c2140ee98687b315af91492087handoff_transform_failed)
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='78210f9f007060551130812fcb5a9cd5b4728adc11875'></a> Source: [docs\standard\base-types\how-to-verify-that-strings-are-in-valid-email-format.md](https://github.com/OpenLocalizationTestOrg/docs/blob/f9ae43c1cac88dc83fee07b26d8333501f574532/docs/standard/base-types/how-to-verify-that-strings-are-in-valid-email-format.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [how-to-verify-that-strings-are-in-valid-email-format.2cb1ab13e9eeac318e584f4c04e120911fe2ac8b.it-it.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/dc98ea171bab27152e51d6278a65f63279aa296c/ol-handoff/OpenLocalizationTestOrg/docs.it-it/master/net-med-mt/how-to-verify-that-strings-are-in-valid-email-format.2cb1ab13e9eeac318e584f4c04e120911fe2ac8b.it-it.xlf)
+* Handoff Datetime: 2019-10-08 00:43:39
+* Handoff Reason: TransformerUpdate
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='9224e78a422b20f33f19d05e43ed1e2ec8d1c5ce11889'></a> Source: [docs\standard\base-types\regular-expression-language-quick-reference.md](https://github.com/OpenLocalizationTestOrg/docs/blob/f9ae43c1cac88dc83fee07b26d8333501f574532/docs/standard/base-types/regular-expression-language-quick-reference.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [regular-expression-language-quick-reference.b9295943d3c503c0a487421bc4c0e8f65d34ce5c.it-it.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/dc98ea171bab27152e51d6278a65f63279aa296c/ol-handoff/OpenLocalizationTestOrg/docs.it-it/master/net-med-mt/regular-expression-language-quick-reference.b9295943d3c503c0a487421bc4c0e8f65d34ce5c.it-it.xlf)
+* Handoff Datetime: 2019-10-08 00:43:39
+* Handoff Reason: TransformerUpdate
+* Handoff Name: 
+* Archive File: 
+* Archive Datetime: 0001-01-01 00:00:00
+* Handback File: 
+* Handback Datetime: 0001-01-01 00:00:00
+* Handback Name: 
+* [Back to Top](#report-top)
+
+##### <a name='51e22407bd20cc6aa17b242948a83d698167590e11896'></a> Source: [docs\standard\base-types\substitutions-in-regular-expressions.md](https://github.com/OpenLocalizationTestOrg/docs/blob/f9ae43c1cac88dc83fee07b26d8333501f574532/docs/standard/base-types/substitutions-in-regular-expressions.md)
+* Status: HandedOffSuccess
+* Target File: 
+* Handoff File: [substitutions-in-regular-expressions.985160cec529546bc13d246d99e834ddb53c6b7b.it-it.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/dc98ea171bab27152e51d6278a65f63279aa296c/ol-handoff/OpenLocalizationTestOrg/docs.it-it/master/net-med-mt/substitutions-in-regular-expressions.985160cec529546bc13d246d99e834ddb53c6b7b.it-it.xlf)
+* Handoff Datetime: 2019-10-08 00:43:39
+* Handoff Reason: TransformerUpdate
+* Handoff Name: 
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -26,13 +70,12 @@
 * [Back to Top](#report-top)
 
 ##### <a name='5ddad477e48715c027104baf050959c51006e51213625'></a> Source: [docs\visual-basic\language-reference\xmldoc\code.md](https://github.com/OpenLocalizationTestOrg/docs/blob/f9ae43c1cac88dc83fee07b26d8333501f574532/docs/visual-basic/language-reference/xmldoc/code.md)
-* Status: HandedOffFailed
+* Status: HandedOffSuccess
 * Target File: 
-* Handoff File: 
-* Handoff Datetime: 2019-10-01 10:36:03
-* Handoff Reason: Ignored
+* Handoff File: [code.67d81c5b53411de404267b11016059fd73b47e53.it-it.xlf](https://github.com/OpenLocalizationTestOrg/docs.handoff/blob/dc98ea171bab27152e51d6278a65f63279aa296c/ol-handoff/OpenLocalizationTestOrg/docs.it-it/master/vbcs_lo-mt/code.67d81c5b53411de404267b11016059fd73b47e53.it-it.xlf)
+* Handoff Datetime: 2019-10-08 00:43:39
+* Handoff Reason: Include
 * Handoff Name: 
-* Handoff Error: [handoff_transform_failed](#5ddad477e48715c027104baf050959c51006e51213625handoff_transform_failed)
 * Archive File: 
 * Archive Datetime: 0001-01-01 00:00:00
 * Handback File: 
@@ -42,17 +85,5 @@
 
 
 ## Error Details
-##### <a name='1c19f6060398483fc0c2140ee98687b315af91492087handoff_transform_failed'></a> Source: [docs\csharp\programming-guide\xmldoc\code.md](#1c19f6060398483fc0c2140ee98687b315af91492087)
-* Error Code: handoff_transform_failed
-* Error Message: Handoff source file: docs\csharp\programming-guide\xmldoc\code.md transformed failed.
-* Retriable: False
-* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: docs\\csharp\\programming-guide\\xmldoc\\code.md transformed failed.","internal_error_retriable":false,"exception_message":"<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>Cannot GET /contenttoxliff</pre>\n</body>\n</html>\n","exception_type":"System.Net.Http.HttpRequestException","stack_trace":"   at Microsoft.OpenLocalization.Transformer.MarkdownJavascriptTransformer.ContentToXliffCore(Stream sourceStream, Stream xliffStream, Stream skeletonStream, String srcLocale, String targetLocale, IReadOnlyDictionary`2 transformerOptions, String sourcePath, String format) in D:\\a\\1\\s\\src\\OpenLocalization.Transformer.Core\\Transformer\\MarkdownJavascriptTransformer.cs:line 67\r\n   at Microsoft.OpenLocalization.Transformer.TransformerClient.MarkdownToXliff(Stream sourceStream, Stream xliffStream, Stream skeletonStream, String srcLocale, String targetLocale, String xliffVersion, IReadOnlyDictionary`2 options, String sourcePath) in D:\\a\\1\\s\\src\\OpenLocalization.Transformer.Core\\TransformerClient.cs:line 78\r\n   at Microsoft.OpenLocalization.Helper.XliffTransformUtil.ContentToXliff(String mdfile, String xliffFile, String skeletonFile, String sourceLocale, String targetLocale, String xliffVersion, IReadOnlyDictionary`2 transformerOptions, String souurceRelativePath) in D:\\a\\1\\s\\src\\OpenLocalization\\Helper\\XliffTransformUtil.cs:line 65\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass30_0.<CreateHandoffFiles>b__0(Tuple`5 handoff) in D:\\a\\1\\s\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 292","extended_information":null}
-
-##### <a name='5ddad477e48715c027104baf050959c51006e51213625handoff_transform_failed'></a> Source: [docs\visual-basic\language-reference\xmldoc\code.md](#5ddad477e48715c027104baf050959c51006e51213625)
-* Error Code: handoff_transform_failed
-* Error Message: Handoff source file: docs\visual-basic\language-reference\xmldoc\code.md transformed failed.
-* Retriable: False
-* Error Details: {"internal_error_code":"handoff_transform_failed","internal_error_message":"Handoff source file: docs\\visual-basic\\language-reference\\xmldoc\\code.md transformed failed.","internal_error_retriable":false,"exception_message":"<!DOCTYPE html>\n<html lang=\"en\">\n<head>\n<meta charset=\"utf-8\">\n<title>Error</title>\n</head>\n<body>\n<pre>Cannot GET /contenttoxliff</pre>\n</body>\n</html>\n","exception_type":"System.Net.Http.HttpRequestException","stack_trace":"   at Microsoft.OpenLocalization.Transformer.MarkdownJavascriptTransformer.ContentToXliffCore(Stream sourceStream, Stream xliffStream, Stream skeletonStream, String srcLocale, String targetLocale, IReadOnlyDictionary`2 transformerOptions, String sourcePath, String format) in D:\\a\\1\\s\\src\\OpenLocalization.Transformer.Core\\Transformer\\MarkdownJavascriptTransformer.cs:line 67\r\n   at Microsoft.OpenLocalization.Transformer.TransformerClient.MarkdownToXliff(Stream sourceStream, Stream xliffStream, Stream skeletonStream, String srcLocale, String targetLocale, String xliffVersion, IReadOnlyDictionary`2 options, String sourcePath) in D:\\a\\1\\s\\src\\OpenLocalization.Transformer.Core\\TransformerClient.cs:line 78\r\n   at Microsoft.OpenLocalization.Helper.XliffTransformUtil.ContentToXliff(String mdfile, String xliffFile, String skeletonFile, String sourceLocale, String targetLocale, String xliffVersion, IReadOnlyDictionary`2 transformerOptions, String souurceRelativePath) in D:\\a\\1\\s\\src\\OpenLocalization\\Helper\\XliffTransformUtil.cs:line 65\r\n   at Microsoft.OpenLocalization.Localization.LocalizationCore.<>c__DisplayClass30_0.<CreateHandoffFiles>b__0(Tuple`5 handoff) in D:\\a\\1\\s\\src\\OpenLocalization\\Localization\\HandoffCore.cs:line 292","extended_information":null}
-
 
 Generated by OpenLocalization.
